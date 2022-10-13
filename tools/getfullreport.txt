@@ -1,0 +1,4 @@
+first, type sudo -i [Enter]
+then type cd /home/elastic/ory [Enter]   # note :you can alway type ls to see the content of the directory
+then type python3 getFullReport.py
+path to the database = /home/elastic/ahronConnector/other1.db
