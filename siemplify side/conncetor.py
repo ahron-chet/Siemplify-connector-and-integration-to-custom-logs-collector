@@ -1,4 +1,4 @@
-import base64
+
 from SiemplifyConnectors import SiemplifyConnectorExecution
 from SiemplifyConnectorsDataModel import AlertInfo
 from SiemplifyUtils import output_handler,unix_now
