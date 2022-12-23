@@ -21,7 +21,7 @@ This repository contains a connector and integration for Siemplify that allows f
 
 ###### Siemplify Side:
 
-Create a new connector for the desired integration
-Add the contents of the Connector.py file in the Connector folder
-Define the IP address of the server (Server.py)
-Set the same password and encryption key as on the server side
+- Create a new connector for the desired integration
+- Add the contents of the Connector.py file in the Connector folder
+- Define the IP address of the server (Server.py)
+- Set the same password and encryption key as on the server side
