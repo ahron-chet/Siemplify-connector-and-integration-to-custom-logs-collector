@@ -11,14 +11,14 @@ This repository contains a connector and integration for Siemplify that allows f
 
 ## To use the connector and integration:
 
-###Server Side:`
+### Server Side:`
 
 - Copy the server folder to a dedicated Linux server
 - Define the log feed address that will listen for client logs on the syslog port
 - Set a password for authentication and a key for encryption
 - Run the Server.py file
 
-###Siemplify Side:
+### Siemplify Side:
 
 Create a new connector for the desired integration
 Add the contents of the Connector.py file in the Connector folder
